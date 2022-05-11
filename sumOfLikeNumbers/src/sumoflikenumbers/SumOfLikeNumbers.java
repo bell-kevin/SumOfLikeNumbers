@@ -26,6 +26,6 @@ public class SumOfLikeNumbers {
             sum += i;
         }
 
-        System.out.println("The sum of " + value + " numbers from 0 up to " + max + " is equal to: " + sum);
+        System.out.println("The sum of " + value + " numbers is " + sum);
     }
 }
