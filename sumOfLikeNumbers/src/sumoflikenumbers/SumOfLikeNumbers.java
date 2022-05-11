@@ -1,13 +1,6 @@
 package sumoflikenumbers;
-
 import java.util.Scanner;
-
-/**
- *
- * @author 4800590195
- */
 public class SumOfLikeNumbers {
-
     /**
      * @param args the command line arguments
      */
