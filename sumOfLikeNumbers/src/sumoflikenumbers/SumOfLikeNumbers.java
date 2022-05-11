@@ -12,7 +12,7 @@ public class SumOfLikeNumbers {
         System.out.print("Please enter a number: ");
         maximum = computerKeyboardInput.nextInt();
         if (maximum % 2 == 0) {
-            num = 2;
+            number = 2;
             value = "EVEN";
         } else {
             number = 1;
