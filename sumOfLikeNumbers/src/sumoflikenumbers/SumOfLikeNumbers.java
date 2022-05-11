@@ -11,7 +11,6 @@ public class SumOfLikeNumbers {
         int sum = 0;
         int max, num;
         String value;
-
         System.out.print("Please enter a number: ");
         max = computerKeyboardInput.nextInt();
         if (max % 2 == 0) {
