@@ -25,7 +25,6 @@ public class SumOfLikeNumbers {
         for (i = num; i <= max; i += 2) {
             sum += i;
         }
-
         System.out.println("The sum of " + value + " numbers is " + sum);
     }
 }
