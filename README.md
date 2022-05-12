@@ -3,7 +3,7 @@ The user inputs a number, and if the number is even, the program calculates the 
 
 The program can use ONLY ONE For loop, not one for even numbers and a different one for odd numbers.  
 
-Run the program four times, twice with even numbers and twice with odd numbers, and take screenshots of the results. 
+Run the program 4 times, twice with even numbers and twice with odd numbers, and take screenshots of the results. 
 
 Note that you must use correct formatting in the code -- appropriate indentation is most important. You can use Shift-Alt-F to have NetBeans automatically format the code correctly. If the formatting is incorrect, it will be returned to you for changes with a grade of zero.  
 
